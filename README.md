@@ -3,7 +3,7 @@
 **AI-Powered Sales Prediction & Forecasting Application**  
 IBM University Engagement Program — 2025  
 **Author:** KOKKIRIGADDA MANOJ BABU  
-**Email:** kokkirigaddamanojbabu@gmail.com | **WhatsApp:** 9553848655
+
 
 ---
 
@@ -210,8 +210,6 @@ This project was developed as part of the **IBM University Engagement Program 20
 ## 👤 Author
 
 **KOKKIRIGADDA MANOJ BABU**  
-📧 kokkirigaddamanojbabu@gmail.com  
-📱 WhatsApp: 9553848655  
 🔗 [GitHub Repository](https://github.com/Manoj-Babu-Kokkirigadda/sales_forecast_app)
 
 ---
